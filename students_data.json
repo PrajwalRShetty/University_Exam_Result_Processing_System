@@ -22,26 +22,37 @@
     "totalScore": 291
   },
   {
+    "id": 3,
+    "name": "Anjali",
+    "scores": {
+      "math": 98,
+      "english": 94,
+      "science": 92
+    },
+    "rank": 3,
+    "totalScore": 284
+  },
+  {
     "id": 17,
-    "name": "raj",
+    "name": "Raj",
     "scores": {
       "math": 90,
       "english": 96,
       "science": 95
     },
-    "rank": 3,
+    "rank": 4,
     "totalScore": 281
   },
   {
-    "id": 4,
-    "name": "Priya",
+    "id": 21,
+    "name": "John Doe",
     "scores": {
-      "math": 95,
-      "english": 92,
-      "science": 91
+      "math": 88,
+      "science": 90,
+      "english": 99
     },
-    "rank": 4,
-    "totalScore": 278
+    "rank": 5,
+    "totalScore": 277
   },
   {
     "id": 9,
@@ -51,8 +62,19 @@
       "english": 94,
       "science": 90
     },
-    "rank": 5,
+    "rank": 6,
     "totalScore": 276
+  },
+  {
+    "id": 15,
+    "name": "Rahul",
+    "scores": {
+      "math": 91,
+      "english": 89,
+      "science": 92
+    },
+    "rank": 7,
+    "totalScore": 272
   },
   {
     "id": 5,
@@ -62,8 +84,19 @@
       "english": 89,
       "science": 90
     },
-    "rank": 6,
+    "rank": 8,
     "totalScore": 266
+  },
+  {
+    "id": 20,
+    "name": "Kavya",
+    "scores": {
+      "math": 89,
+      "english": 85,
+      "science": 87
+    },
+    "rank": 9,
+    "totalScore": 261
   },
   {
     "id": 10,
@@ -73,8 +106,85 @@
       "english": 84,
       "science": 85
     },
-    "rank": 7,
+    "rank": 10,
     "totalScore": 257
+  },
+  {
+    "id": 13,
+    "name": "Aditya",
+    "scores": {
+      "math": 85,
+      "english": 83,
+      "science": 88
+    },
+    "rank": 11,
+    "totalScore": 256
+  },
+  {
+    "id": 14,
+    "name": "Pooja",
+    "scores": {
+      "math": 88,
+      "english": 86,
+      "science": 80
+    },
+    "rank": 12,
+    "totalScore": 254
+  },
+  {
+    "id": 23,
+    "name": "John",
+    "scores": {
+      "math": 85,
+      "science": 90,
+      "english": 78
+    },
+    "rank": 13,
+    "totalScore": 253
+  },
+  {
+    "id": 24,
+    "name": "krish",
+    "scores": {
+      "math": 85,
+      "science": 90,
+      "english": 78
+    },
+    "rank": 14,
+    "totalScore": 253
+  },
+  {
+    "id": 18,
+    "name": "Vani",
+    "scores": {
+      "math": 82,
+      "english": 88,
+      "science": 80
+    },
+    "rank": 15,
+    "totalScore": 250
+  },
+  {
+    "id": 11,
+    "name": "Amit",
+    "scores": {
+      "math": 83,
+      "english": 82,
+      "science": 81
+    },
+    "rank": 16,
+    "totalScore": 246
+  },
+  {
+    "id": 19,
+    "name": "Mohit",
+    "scores": {
+      "math": 81,
+      "english": 79,
+      "science": 83
+    },
+    "rank": 17,
+    "totalScore": 243
   },
   {
     "id": 7,
@@ -84,19 +194,30 @@
       "english": 79,
       "science": 82
     },
-    "rank": 8,
+    "rank": 18,
     "totalScore": 241
   },
   {
-    "id": 6,
-    "name": "Vikas",
+    "id": 12,
+    "name": "Meera",
     "scores": {
-      "math": 76,
-      "english": 80,
-      "science": 78
+      "math": 78,
+      "english": 74,
+      "science": 79
     },
-    "rank": 9,
-    "totalScore": 234
+    "rank": 20,
+    "totalScore": 231
+  },
+  {
+    "id": 16,
+    "name": "Sneha",
+    "scores": {
+      "math": 75,
+      "english": 78,
+      "science": 77
+    },
+    "rank": 21,
+    "totalScore": 230
   },
   {
     "id": 8,
@@ -106,7 +227,7 @@
       "english": 72,
       "science": 70
     },
-    "rank": 10,
+    "rank": 22,
     "totalScore": 207
   }
 ]

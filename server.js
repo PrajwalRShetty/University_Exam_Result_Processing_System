@@ -11,7 +11,6 @@ app.use(express.json());
 
 const studentsFilePath = path.join(__dirname, 'students_data.json');
 
-// Function to load student data from the file
 function loadStudentsData() {
   try {
     const fileData = fs.readFileSync(studentsFilePath, 'utf-8');
@@ -33,7 +32,6 @@ function loadStudentsData() {
 // Load student data when the app starts
 const data = loadStudentsData();
 
-// Ensure no duplicate entries are added
 if (data && Array.isArray(data)) {
   data.forEach(student => {
     const existingStudent = ExamResultService.searchStudentById(student.id);
@@ -46,7 +44,6 @@ if (data && Array.isArray(data)) {
   console.error("Failed to load student data or data is not in the correct format.");
 }
 
-// Set up the router to handle routes
 app.use('/api', examResultRouter);
 
 // Start the server

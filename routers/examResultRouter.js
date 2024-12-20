@@ -13,7 +13,7 @@ const {
 const router = express.Router();
 
 router.post('/students', addStudent);
-router.post('/students/sort', sortAndRankStudents); 
+router.post('/student/sort', sortAndRankStudents); 
 router.get('/students', getAllStudents); 
 router.get('/students/:id', searchStudentById); 
 router.put('/students/:id', updateStudentDetails);

@@ -101,9 +101,14 @@ class ExamResultService {
   }
 
   addStudent(id, name, scores) {
+    const existingStudent = this.bst.search(id);
+    if (existingStudent) {
+      console.error(`Student with ID ${id} already exists.`);
+      return; 
+    }
     const student = new Student(id, name, scores);
     this.students.push(student);
-    this.bst.insert(student); // Insert into BST
+    this.bst.insert(student); 
     this.saveStudentsToFile(); 
   }
 
