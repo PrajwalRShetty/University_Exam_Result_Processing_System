@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2,
+    "name": "Ram",
+    "scores": {
+      "math": 100,
+      "english": 96,
+      "science": 95
+    },
+    "rank": 1,
+    "totalScore": 291
+  },
+  {
+    "id": 1,
+    "name": "Shiva",
+    "scores": {
+      "math": 100,
+      "english": 97,
+      "science": 94
+    },
+    "rank": 2,
+    "totalScore": 291
+  },
+  {
+    "id": 17,
+    "name": "raj",
+    "scores": {
+      "math": 90,
+      "english": 96,
+      "science": 95
+    },
+    "rank": 3,
+    "totalScore": 281
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "scores": {
+      "math": 95,
+      "english": 92,
+      "science": 91
+    },
+    "rank": 4,
+    "totalScore": 278
+  },
+  {
+    "id": 9,
+    "name": "Neha",
+    "scores": {
+      "math": 92,
+      "english": 94,
+      "science": 90
+    },
+    "rank": 5,
+    "totalScore": 276
+  },
+  {
+    "id": 5,
+    "name": "Sita",
+    "scores": {
+      "math": 87,
+      "english": 89,
+      "science": 90
+    },
+    "rank": 6,
+    "totalScore": 266
+  },
+  {
+    "id": 10,
+    "name": "Kiran",
+    "scores": {
+      "math": 88,
+      "english": 84,
+      "science": 85
+    },
+    "rank": 7,
+    "totalScore": 257
+  },
+  {
+    "id": 7,
+    "name": "Nina",
+    "scores": {
+      "math": 80,
+      "english": 79,
+      "science": 82
+    },
+    "rank": 8,
+    "totalScore": 241
+  },
+  {
+    "id": 6,
+    "name": "Vikas",
+    "scores": {
+      "math": 76,
+      "english": 80,
+      "science": 78
+    },
+    "rank": 9,
+    "totalScore": 234
+  },
+  {
+    "id": 8,
+    "name": "Ravi",
+    "scores": {
+      "math": 65,
+      "english": 72,
+      "science": 70
+    },
+    "rank": 10,
+    "totalScore": 207
+  }
+]
